@@ -1,0 +1,6 @@
+strategy_name,usage_count,avg_confidence,std_dev_confidence,success_rate_gt_0.6
+keypoints_fast_corners,8,0.9470583200454712,0.037073677404340026,1.0
+original_bbox (bbox_success),40,0.86598741710186,0.07311345838223306,1.0
+keypoints_log_blobs,11,0.9912023652683605,0.012290325598860797,1.0
+arrow_followed_line_detection_heuristic_bbox_success,10,0.8971847167889578,0.07132924102043964,1.0
+keypoints_horizontal_lines_midpoints,2,0.9454616010189056,0.05024459958076477,1.0
