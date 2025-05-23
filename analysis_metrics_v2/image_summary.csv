@@ -1,0 +1,17 @@
+image_id,structures_count,avg_confidence,yolo_enhancements_added
+ImageCLEFmedical_Caption_2025_test_118,6,0.830390473206838,0
+ImageCLEFmedical_Caption_2025_test_1251,7,0.936322101524898,0
+ImageCLEFmedical_Caption_2025_test_1258,3,0.8903443018595377,0
+ImageCLEFmedical_Caption_2025_test_1260,7,0.895458355679804,0
+ImageCLEFmedical_Caption_2025_test_15167,5,0.9512510821114037,0
+ImageCLEFmedical_Caption_2025_test_1776,4,0.893765995500758,0
+ImageCLEFmedical_Caption_2025_test_19226,4,0.9256643765531846,0
+ImageCLEFmedical_Caption_2025_test_19232,1,0.8122522830963135,0
+ImageCLEFmedical_Caption_2025_test_283,3,0.9438792864481608,0
+ImageCLEFmedical_Caption_2025_test_3298,5,0.8325534343719483,0
+ImageCLEFmedical_Caption_2025_test_3563,3,0.855656107266744,0
+ImageCLEFmedical_Caption_2025_test_368,5,0.898729658126831,0
+ImageCLEFmedical_Caption_2025_test_3880,3,0.8371938427155596,0
+ImageCLEFmedical_Caption_2025_test_4346,4,0.9559528529644012,0
+ImageCLEFmedical_Caption_2025_test_5522,4,0.9359607615487289,0
+ImageCLEFmedical_Caption_2025_test_8779,3,0.8701980908711752,0
