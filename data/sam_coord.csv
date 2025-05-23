@@ -1,0 +1,84 @@
+ImageID,Label,x,y,width,height
+ImageCLEFmedical_Caption_2025_test_118,Bone Structure Of Ilium,200,450,150,100
+ImageCLEFmedical_Caption_2025_test_118,pelvis,220,500,160,120
+ImageCLEFmedical_Caption_2025_test_118,abdomen,150,100,300,350
+ImageCLEFmedical_Caption_2025_test_118,Bone Structure Of Pubis,230,580,140,60
+ImageCLEFmedical_Caption_2025_test_118,air-fluid levels,230,180,40,40
+ImageCLEFmedical_Caption_2025_test_118,air-fluid levels,280,200,40,40
+ImageCLEFmedical_Caption_2025_test_1251,Heart Ventricle,180,200,100,100
+ImageCLEFmedical_Caption_2025_test_1251,Right Ventricle,230,250,50,50
+ImageCLEFmedical_Caption_2025_test_1251,Right Ventricular Structure,230,250,50,50
+ImageCLEFmedical_Caption_2025_test_1251,thrombus,180,220,60,60
+ImageCLEFmedical_Caption_2025_test_1258,abdomen,0,0,512,600
+ImageCLEFmedical_Caption_2025_test_1258,small intestine,100,200,300,400
+ImageCLEFmedical_Caption_2025_test_1258,intestines,100,150,300,450
+ImageCLEFmedical_Caption_2025_test_1260,Cervix Uteri,160,220,50,35
+ImageCLEFmedical_Caption_2025_test_1260,Uterine Cavity,130,250,30,20
+ImageCLEFmedical_Caption_2025_test_1260,uterus,140,230,70,45
+ImageCLEFmedical_Caption_2025_test_1260,pelvis,100,200,150,120
+ImageCLEFmedical_Caption_2025_test_15167,Lymph Nodes,140,180,40,40
+ImageCLEFmedical_Caption_2025_test_15167,Left Axillary Region,120,150,40,40
+ImageCLEFmedical_Caption_2025_test_15167,Inguinal Region,160,320,40,40
+ImageCLEFmedical_Caption_2025_test_1776,Right Upper Lobe Of Lung,250,150,100,120
+ImageCLEFmedical_Caption_2025_test_1776,Left Upper Lobe Of Lung,50,150,100,120
+ImageCLEFmedical_Caption_2025_test_1776,chest,50,100,350,300
+ImageCLEFmedical_Caption_2025_test_19226,Optic Nerve,40,220,60,40
+ImageCLEFmedical_Caption_2025_test_19226,Entire Eye,10,50,380,170
+ImageCLEFmedical_Caption_2025_test_19232,Optic Nerve,120,80,60,30  
+ImageCLEFmedical_Caption_2025_test_283,liver,120,100,200,150
+ImageCLEFmedical_Caption_2025_test_283,cystic mass,150,140,50,50
+ImageCLEFmedical_Caption_2025_test_283,cystic mass,140,140,40,40
+ImageCLEFmedical_Caption_2025_test_283,liver segment VIII,150,140,50,50
+ImageCLEFmedical_Caption_2025_test_3298,device,250,190,60,60
+ImageCLEFmedical_Caption_2025_test_3298,stent,250,190,60,60
+ImageCLEFmedical_Caption_2025_test_3298,Left Renal Artery,180,450,80,40
+ImageCLEFmedical_Caption_2025_test_3563,Left Lower Lobe Of Lung,50,150,100,200
+ImageCLEFmedical_Caption_2025_test_3563,Lower Lobe,50,150,100,200
+ImageCLEFmedical_Caption_2025_test_3563,Nodule,40,20,40,40
+ImageCLEFmedical_Caption_2025_test_3563,Nodule,20,140,40,40
+ImageCLEFmedical_Caption_2025_test_3563,Nodule,40,260,40,40
+ImageCLEFmedical_Caption_2025_test_3563,Nodule,240,80,40,40
+ImageCLEFmedical_Caption_2025_test_3563,Nodule,260,240,40,40
+ImageCLEFmedical_Caption_2025_test_368,Lymph Nodes,180,100,60,60
+ImageCLEFmedical_Caption_2025_test_368,Left Axillary Region,130,100,40,40
+ImageCLEFmedical_Caption_2025_test_3880,brain,50,50,150,150
+ImageCLEFmedical_Caption_2025_test_3880,hematoma,140,100,60,60
+ImageCLEFmedical_Caption_2025_test_3880,hematoma,160,100,40,40
+ImageCLEFmedical_Caption_2025_test_3880,Right Middle Cerebral Artery,130,105,40,20
+ImageCLEFmedical_Caption_2025_test_4346,cystic,255,160,40,40
+ImageCLEFmedical_Caption_2025_test_4346,Right Testis,10,200,100,250
+ImageCLEFmedical_Caption_2025_test_5522,Right Internal Carotid Artery,220,180,20,60
+ImageCLEFmedical_Caption_2025_test_5522,Left Internal Carotid Artery,100,180,20,60
+ImageCLEFmedical_Caption_2025_test_5522,Middle Cerebral Artery,160,120,120,40
+ImageCLEFmedical_Caption_2025_test_5522,Right Middle Cerebral Artery,240,100,60,40
+ImageCLEFmedical_Caption_2025_test_5522,Left Middle Cerebral Artery,60,100,60,40
+ImageCLEFmedical_Caption_2025_test_8779,Lymph Nodes,180,250,50,50
+ImageCLEFmedical_Caption_2025_test_118,Air-fluid Level,160,280,40,40
+ImageCLEFmedical_Caption_2025_test_118,Air-fluid Level,230,260,40,40
+ImageCLEFmedical_Caption_2025_test_118,Air-fluid Level,270,330,40,40
+ImageCLEFmedical_Caption_2025_test_1260,Large Mass,207,372,40,40
+ImageCLEFmedical_Caption_2025_test_1260,Free Fluid,243,354,40,40
+ImageCLEFmedical_Caption_2025_test_1260,blood,274,385,40,40
+ImageCLEFmedical_Caption_2025_test_15167,Lymph Nodess,125,80,50,30
+ImageCLEFmedical_Caption_2025_test_1776,Pleural Effusion,380,150,120,200
+ImageCLEFmedical_Caption_2025_test_19226,choroidal effusion,80,40,260,160
+ImageCLEFmedical_Caption_2025_test_19226,effusion,160,90,40,40
+ImageCLEFmedical_Caption_2025_test_19226,effusion,200,160,40,40
+ImageCLEFmedical_Caption_2025_test_3298,left subclavian artery stenosis,150,50,60,60
+ImageCLEFmedical_Caption_2025_test_3298,stenosis,200,40,40,40
+ImageCLEFmedical_Caption_2025_test_368,hypermetabolic mass,240,100,80,80
+ImageCLEFmedical_Caption_2025_test_368,lymphadenopathy,200,150,60,60
+ImageCLEFmedical_Caption_2025_test_368,left upper lobe,250,100,40,40
+ImageCLEFmedical_Caption_2025_test_368,left axillary region,210,140,40,40
+ImageCLEFmedical_Caption_2025_test_4346,Right Breast,50,50,150,150
+ImageCLEFmedical_Caption_2025_test_8779,right breast,250,300,150,150
+ImageCLEFmedical_Caption_2025_test_8779,lymph nodes,280,420,100,100
+ImageCLEFmedical_Caption_2025_test_8779,hypermetabolic mass,200,300,40,40
+ImageCLEFmedical_Caption_2025_test_1251,mitral valve,240,120,50,50
+ImageCLEFmedical_Caption_2025_test_1251,large vegetation,240,140,50,50
+ImageCLEFmedical_Caption_2025_test_1251,heart ventricle,200,160,70,70
+ImageCLEFmedical_Caption_2025_test_1251,right ventricular structure,100,200,70,70
+ImageCLEFmedical_Caption_2025_test_1251,possible thrombus formation,120,180,60,60
+ImageCLEFmedical_Caption_2025_test_15167,spleen,140,190,40,40
+ImageCLEFmedical_Caption_2025_test_4346,Hypoechoic Mass,180,60,40,40
+ImageCLEFmedical_Caption_2025_test_4346,Hypoechoic Mass,180,50,40,40
