@@ -11,3 +11,5 @@ The final and pivotal stage of our framework, detailed in the accompanying Pytho
 The final output is a set of explainable images with bounding boxes that visually ground the initial AI-generated explanation in verifiable evidence. 
 
 This work demonstrates a complete cycle from abstract text generation to concrete, pixel-level semantic grounding, bridging the gap between the generative capabilities of LLMs and the clinical need for transparent and reproducible diagnostic aids
+
+UPDATE: A second version of the notebook is available with changes in YOLO enhancement. The system second stage employs the Segment Anything Model (SAM), enhanced by heatmap-based confidence scoring and advanced computer vision heuristics. Crucially, this stage also incorporates a multi-source YOLO detection strategy: a local YOLOv8 model provides initial broad object detection, which can be augmented by calls to a specialized, cloud-hosted medical YOLO model via the Roboflow API. Detections from all YOLO sources are strictly filtered for clinical relevance before being used to identify structures potentially missed by the text-driven pipeline.
